@@ -4,9 +4,6 @@ blend in with the background more so that they don't get in the way. To me this 
 
 Maybe you'll like it too :)
 
-In Java it will look something like this:
-![image](images/java.png)
-
 Here's the cat
 ![image](images/greencat%20colored.png)
 
