@@ -5,6 +5,9 @@
   "description": "A green dark theme with blue and purple accents",
   "version": "0.0.2",
   "icon": "images/avatar.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KiraGreifeneder/a-green-cat-theme"},
   "engines": {
     "vscode": "^1.88.0"
   },
