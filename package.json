@@ -1,0 +1,23 @@
+{
+  "name": "a-green-cat-theme",
+  "publisher": "agreencat",
+  "displayName": "a_green_cat's theme",
+  "description": "A green dark theme with blue and purple accents",
+  "version": "0.0.2",
+  "icon": "images/avatar.png",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "a_green_cat's theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/a_green_cat's theme-color-theme.json"
+      }
+    ]
+  }
+}
