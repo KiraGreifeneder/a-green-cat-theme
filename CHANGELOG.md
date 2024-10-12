@@ -7,3 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## Version 1.0.0
+Tweaked the classic theme, added a "v2" theme that has darker sidebar text, and added a dimmed theme.

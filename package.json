@@ -18,8 +18,18 @@
     "themes": [
       {
         "label": "a_green_cat's theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/a_green_cat's theme-color-theme.json"
+        "uiTheme": "agc1",
+        "path": "./themes/a-green-cat-color-theme.json"
+      },
+      {
+        "label": "a_green_cat's theme (alternative)",
+        "uiTheme": "agc2",
+        "path": "./themes/a-green-cat-v2-color-theme.json"
+      },
+      {
+        "label": "a_green_cat's theme (dimmed)",
+        "uiTheme": "agcDimmed",
+        "path": "./themes/a-green-cat-dimmed-color-theme.json"
       }
     ]
   }

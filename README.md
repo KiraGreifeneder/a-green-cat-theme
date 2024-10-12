@@ -4,6 +4,11 @@ blend in with the background more so that they don't get in the way. To me this 
 
 Maybe you'll like it too :)
 
+Some screenshots of the 3 themes in this pack:
+![image](images/agc.png)
+![image](images/agc2.png)
+![image](images/agcdimmed.png)
+
 Here's the cat
 ![image](images/greencat%20colored.png)
 
