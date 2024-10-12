@@ -13,3 +13,6 @@ Tweaked the classic theme, added a "v2" theme that has darker sidebar text, and 
 
 ### Version 1.0.1
 made comments in the dimmed version a better color
+
+### Version 1.0.2
+Changed the on hover color for files in the sidebar in the dimmed version
