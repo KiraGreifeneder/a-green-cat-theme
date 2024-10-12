@@ -10,3 +10,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## Version 1.0.0
 Tweaked the classic theme, added a "v2" theme that has darker sidebar text, and added a dimmed theme.
+
+### Version 1.0.1
+made comments in the dimmed version a better color
